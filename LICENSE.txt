@@ -1,0 +1,97 @@
+**Creative Commons Attribution 4.0 International Public License**
+
+By using this repository, you agree to follow the terms and conditions of the Creative Commons Attribution 4.0 International Public License ("Public License"). If this Public License is interpreted as a contract, the rights granted to you are given in exchange for your acceptance of these terms. The Licensor provides these rights in consideration of the benefits they receive from making the materials available under this license. 
+
+**Section 1 – Definitions**
+
+- **Adapted Material**: Any new material created from the Licensed Material, including translations, alterations, or modifications that require permission under copyright law. For musical works or recordings, Adapted Material includes synchronization with moving images.
+
+- **Adapter's License**: The license applied to your contributions to Adapted Material, following the terms of this Public License.
+
+- **Copyright and Similar Rights**: Includes copyright and related rights such as performance, broadcast, sound recording, and database rights, regardless of how they are labeled.
+
+- **Effective Technological Measures**: Measures that cannot be bypassed without proper authority, under international agreements like the WIPO Copyright Treaty.
+
+- **Exceptions and Limitations**: Legal exceptions like fair use or fair dealing that may apply to your use of the Licensed Material.
+
+- **Licensed Material**: The content in this GitHub repository covered by this Public License.
+
+- **Licensed Rights**: The rights granted to you under this Public License, limited to the copyright and similar rights that the Licensor can license.
+
+- **Licensor**: The individual or entity granting rights under this Public License.
+
+- **Share**: To make the material publicly available through means requiring permission under the Licensed Rights, including reproduction, public display, and distribution.
+
+- **Sui Generis Database Rights**: Rights from European database protection laws or equivalent rights elsewhere.
+
+- **You**: The individual or entity using the Licensed Rights under this Public License.
+
+**Section 2 – Scope**
+
+- **License Grant**: 
+  - The Licensor grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, and irrevocable license to:
+    - Reproduce and Share the Licensed Material, in whole or in part.
+    - Create, reproduce, and Share Adapted Material.
+
+- **Exceptions and Limitations**: If legal exceptions apply, this Public License does not apply, and you do not need to follow its terms.
+
+- **Term**: The license is valid as long as the Copyright and Similar Rights apply, as detailed in Section 6(a).
+
+- **Media and Formats; Technical Modifications**: You can use the Licensed Rights in any media or format, and make technical modifications as needed. This does not create Adapted Material.
+
+- **Downstream Recipients**:
+  - Every recipient of the Licensed Material automatically receives the same rights under this Public License.
+  - You cannot impose additional terms or Effective Technological Measures that restrict others' use of the Licensed Material.
+  - This Public License does not imply endorsement by the Licensor.
+
+- **Other Rights**:
+  - Moral rights and similar personality rights are not licensed. The Licensor may waive these rights to the extent necessary for you to use the Licensed Rights.
+  - Patent and trademark rights are not covered.
+  - The Licensor waives any right to collect royalties for the use of the Licensed Rights.
+
+**Section 3 – License Conditions**
+
+Your use of the Licensed Rights is subject to these conditions:
+
+- **Attribution**:
+  - When Sharing the Licensed Material (including modifications), you must:
+    - Retain the creator’s identification and any designated attributions.
+    - Include a copyright notice, a reference to this Public License, and a disclaimer of warranties.
+    - Provide a URI or hyperlink to the Licensed Material, if practicable.
+    - Indicate any modifications and the Licensed Material’s Public License status.
+  - You can meet these requirements in a reasonable manner based on the context of your use.
+  - If requested by the Licensor, you must remove attribution information if feasible.
+  - For Adapted Material, ensure your Adapter's License does not prevent compliance with this Public License.
+
+**Section 4 – Sui Generis Database Rights**
+
+If the Licensed Rights include Sui Generis Database Rights:
+
+- You are allowed to extract, reuse, and Share significant parts of the database contents.
+- If you include substantial database contents in your database, that database is considered Adapted Material.
+- Comply with Section 3(a) when Sharing substantial portions of database contents.
+
+**Section 5 – Disclaimer of Warranties and Limitation of Liability**
+
+- The Licensor offers the Licensed Material "as-is" without any warranties, including accuracy, fitness for a particular purpose, or non-infringement.
+- The Licensor is not liable for any damages arising from your use of the Licensed Material or this Public License.
+
+**Section 6 – Term and Termination**
+
+- This Public License lasts for the duration of the Copyright and Similar Rights.
+- If you breach the terms, your rights terminate automatically but may be reinstated if the breach is corrected within 30 days or if reinstated by the Licensor.
+- The Licensor may offer the material under different terms or stop distribution, but this does not affect the license.
+
+**Section 7 – Other Terms and Conditions**
+
+- The Licensor is not bound by any additional terms you propose unless expressly agreed.
+
+**Section 8 – Interpretation**
+
+- This Public License does not limit any lawful use of the Licensed Material that does not require permission.
+- If any provision is unenforceable, it will be reformed or severed to maintain enforceability of the remaining terms.
+- No waiver of terms is valid unless explicitly agreed to by the Licensor.
+
+---
+
+This adaptation is designed to fit the context of managing a GitHub repository while maintaining the core elements of the Creative Commons Attribution 4.0 International Public License.
